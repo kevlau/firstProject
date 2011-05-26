@@ -26,3 +26,11 @@ forked process: 1481
 ------------
 PATH and ENVI
 http://ice.he.net/~hedden/jrelinux.html
+
+
+Bug:java -Xmx100M  -jar start.jar or java -Xmx100M your stuff here.
+__________________________
+Error occurred during initialization of VM
+Could not reserve enough space for object heap
+Could not create the Java virtual machine.
+Fix 
