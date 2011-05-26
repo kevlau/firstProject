@@ -22,3 +22,7 @@ http://www.mongodb.org/display/DOCS/Amazon+EC2#AmazonEC2-Linux
 [root@philaz bin]# ./mongod --fork --logpath ~/mongod.log --dbpath /mnt/db/
 all output going to: /root/mongod.log
 forked process: 1481
+
+------------
+PATH and ENVI
+http://ice.he.net/~hedden/jrelinux.html
